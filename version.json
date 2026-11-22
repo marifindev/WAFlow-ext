@@ -1,16 +1,9 @@
 {
-  "version": "2.3.4",
-  "tag": "v2.3.4",
-  "downloadUrl": "https://github.com/marifindev/WAFlow-ext/releases/tag/v2.3.4",
-  "zipUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.4/waflow-crm-v2.3.4.zip",
-  "crxUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.4/waflow-crm-v2.3.4.crx",
-  "notes": "### 🚀 WaFlow CRM v2.3.4 Released
-
-#### ✨ Fitur Baru & Peningkatan:
-- 🚨 **Smart SLA & Audio/Desktop Alert Chat Terbengkalai**: Alarm nada lembut (Audio Chime) & pop-up Chrome desktop otomatis saat pesan masuk pelanggan belum dibalas melebihi batas waktu (SLA).
-- ⏳ **Filter Tab 'Belum Dibalas' & 'Lewat SLA'**: Saring chat prioritas respon langsung dari TopBar WhatsApp Web.
-- 👥 **Ekstrak Anggota Grup WhatsApp (Group Scraper)**: Ambil semua nomor anggota grup WA dengan 1-klik, ekspor ke format CSV atau simpan langsung ke Kontak CRM dengan Tag kustom.
-- 📦 **Cek & Lacak Resi Pengiriman**: Lacak status ekspedisi paket (JNE, J&T, SiCepat, Anteraja, Pos, dll) dengan tombol 1-klik kirim status tracking ke chat WA pelanggan.
-- 🛡️ **Broadcast Anti-Banned & Spintax**: Dukungan format Spintax {Pilihan 1|Pilihan 2|Pilihan 3} pada semua template/broadcast, jeda acak pengiriman (random delay), dan batas kuota harian.",
+  "version": "2.3.5",
+  "tag": "v2.3.5",
+  "downloadUrl": "https://github.com/marifindev/WAFlow-ext/releases/tag/v2.3.5",
+  "zipUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.5/waflow-crm-v2.3.5.zip",
+  "crxUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.5/waflow-crm-v2.3.5.crx",
+  "notes": "### 🚀 Pembaruan WaFlow CRM v2.3.5\n\n#### 🔄 Auto-Update & Changelog\n- **Auto-Detect Pembaruan GitHub**: Ekstensi otomatis mengecek rilis terbaru langsung dari GitHub saat WhatsApp Web dibuka.\n- **Tampilan Catatan Rilis (Changelog)**: Rincian pembaruan ditampilkan lengkap dan rapi di modal *Tentang Ekstensi*.\n- **Badge Update di TopBar**: Notifikasi visual hijau langsung muncul jika ada versi baru tersedia.\n- **1-Click Reload Ekstensi**: Tombol *Muat Ulang Ekstensi* untuk langsung merefresh extension dan WhatsApp Web tanpa perlu restart browser manual.\n\n#### 🚨 Fitur SLA & Customer Service\n- **Smart SLA & Audio Alert**: Alarm bunyi nada lembut (*Audio Chime*) & notifikasi desktop Chrome otomatis saat chat pelanggan belum dibalas melebihi batas waktu SLA.\n- **Filter Tab \"Belum Dibalas\" & \"Lewat SLA\"**: Tombol filter cepat di TopBar untuk menyaring respon prioritas.\n\n#### 👥 Alat & Otomasi\n- **Ekstrak Anggota Grup WA**: Ambil semua kontak anggota grup WhatsApp dengan 1-klik, ekspor ke CSV / Kontak CRM.\n- **Cek Resi & Tracking Paket**: Pelacakan kurir (JNE, J&T, SiCepat, dll) langsung di WhatsApp Web.\n- **Broadcast Spintax Anti-Banned**: Format `{Pilihan 1|Pilihan 2}` dengan jeda acak (*random delay*) dan kuota harian.",
   "releasedAt": "2026-11-22"
 }
