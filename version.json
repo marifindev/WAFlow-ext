@@ -1,9 +1,16 @@
 {
-  "version": "2.3.3",
-  "tag": "v2.3.3",
-  "downloadUrl": "https://github.com/marifindev/WAFlow-ext/releases/tag/v2.3.3",
-  "zipUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.3/waflow-crm-v2.3.3.zip",
-  "crxUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.3/waflow-crm-v2.3.3.crx",
-  "notes": "Rilis Resmi WaFlow CRM v2.3.3 Enterprise: Dashboard Analitik, Kanban Funnel, Katalog & PDF Invoice, AI Gemini, SLA Ticketing & Auto Update.",
+  "version": "2.3.4",
+  "tag": "v2.3.4",
+  "downloadUrl": "https://github.com/marifindev/WAFlow-ext/releases/tag/v2.3.4",
+  "zipUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.4/waflow-crm-v2.3.4.zip",
+  "crxUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.4/waflow-crm-v2.3.4.crx",
+  "notes": "### 🚀 WaFlow CRM v2.3.4 Released
+
+#### ✨ Fitur Baru & Peningkatan:
+- 🚨 **Smart SLA & Audio/Desktop Alert Chat Terbengkalai**: Alarm nada lembut (Audio Chime) & pop-up Chrome desktop otomatis saat pesan masuk pelanggan belum dibalas melebihi batas waktu (SLA).
+- ⏳ **Filter Tab 'Belum Dibalas' & 'Lewat SLA'**: Saring chat prioritas respon langsung dari TopBar WhatsApp Web.
+- 👥 **Ekstrak Anggota Grup WhatsApp (Group Scraper)**: Ambil semua nomor anggota grup WA dengan 1-klik, ekspor ke format CSV atau simpan langsung ke Kontak CRM dengan Tag kustom.
+- 📦 **Cek & Lacak Resi Pengiriman**: Lacak status ekspedisi paket (JNE, J&T, SiCepat, Anteraja, Pos, dll) dengan tombol 1-klik kirim status tracking ke chat WA pelanggan.
+- 🛡️ **Broadcast Anti-Banned & Spintax**: Dukungan format Spintax {Pilihan 1|Pilihan 2|Pilihan 3} pada semua template/broadcast, jeda acak pengiriman (random delay), dan batas kuota harian.",
   "releasedAt": "2026-11-22"
 }
