@@ -1,0 +1,9 @@
+{
+  "version": "2.3.3",
+  "tag": "v2.3.3",
+  "downloadUrl": "https://github.com/marifindev/WAFlow-ext/releases/latest",
+  "zipUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.3/waflow-crm-v2.3.3.zip",
+  "crxUrl": "https://github.com/marifindev/WAFlow-ext/releases/download/v2.3.3/waflow-crm-v2.3.3.crx",
+  "notes": "Rilis v2.3.3: CRM WhatsApp Web Enterprise dengan Dashboard Analitik, Kanban, Produk & Invoice PDF, AI Gemini, SLA Ticketing & Auto Update.",
+  "releasedAt": "2026-11-22"
+}
